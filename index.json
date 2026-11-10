@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "name": "meeting-action-list",
+      "display": "会议纪要转行动清单",
+      "description": "从一段会议记录整理决定、负责人和待办事项。",
+      "sha256": "d132c4ea4cca90014e82e5b91d64522ee771cf30799e7aad01cbe164389c305c"
+    },
+    {
+      "name": "product-price-sheet",
+      "display": "三款商品比价",
+      "description": "把商品的规格、到手价和优惠条件放在同一张比较表里。",
+      "sha256": "ded5dc78650865c74d1742a4d70f26b4948d7f2787d8a28c7b4c49a2def999c8"
+    },
+    {
+      "name": "train-fare-compare",
+      "display": "比较指定时段的高铁车次",
+      "description": "按日期、出发时段、席别和余票，列出可选车次及最低价。",
+      "sha256": "b7193c6df5b641604e0916e8cf131f458f997f9cd82c9d9a07426ed9989eb672"
+    }
+  ]
+}
